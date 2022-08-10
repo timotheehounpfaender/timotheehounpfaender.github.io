@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://timotheehounpfaender.myportfolio.com/sitemap.xml
